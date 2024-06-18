@@ -1,0 +1,43 @@
+# created by virtualenv automatically
+
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pyvenv/
+pyvenv.cfg
+
+# Virtual environments
+Lib/
+Scripts/
+pyvenv/
+pyvenv.cfg
+
+# Environment variables
+.env
+.env.*
+
+# Logs and databases
+*.log
+*.sqlite3
+
+
+# PyInstaller
+*.manifest
+*.spec
+
+
+# Visual Studio Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+
